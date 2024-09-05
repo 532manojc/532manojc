@@ -71,3 +71,49 @@
 
 <h2 style="text-align:center"> <img src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA
 
+<h2 style="text-align:center"> <img src="https://media0.giphy.com/media/uwmNTx7NaDbJnXlKbx/giphy.gif?cid=ecf05e47punwiieyc07nnu8fta4sdbwv7p82hc6mudgtv2ez&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="30" alt = "Connect Gif"> &nbsp; Let's Connect ⨾ </h2>
+
+🌐 **Portfolio:** [Explore My Work]() **-->** Under Construction 🛠️
+
+📫 **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/manoj-c-b39586174/)
+
+
+
+<div align="center">
+<em>
+Feel free to explore my repositories, connect for collaborations, or simply drop a message to discuss all things tech. Looking forward to connecting with fellow developers and enthusiasts like you!
+</em>
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,sass,php,java,mysql,cpp,py & theme=light" alt = "Tech Stack Icons" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  <h1 style="text-align:center">
+    <img src="https://media4.giphy.com/media/3ai0TGECMTkuYzBPS4/giphy.gif?cid=ecf05e47rgofswwoxgb9sss7nb7wekgw41jybpnym21kx3md&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="30" alt = "image">
+    &nbsp; Github Stats &nbsp;
+    <img src="https://media4.giphy.com/media/2sbQ9kfHlN43TsfjeE/giphy.gif?cid=ecf05e47sgz05eeetquf2o4zzkn6vx9hts62shoxaiitxe4d&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="50" alt = "image">
+  </h1>
+
+  ![532manojc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=532manojc&exclude_repo=PostgreSQL-practice-projects,Finance-dashbord-MERN&theme=vue-dark&hide_border=true)   
+  <img src="https://media0.giphy.com/media/tsvRwKnB4t9rkvYKWS/giphy.gif?cid=ecf05e47ucxr45hh04fonnl5gvs1gozilxpvrxhlkbghrgb8&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200" alt = "image">    
+  ![532manojc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=532manojc&theme=vue-dark&hide_border=true)    
+  
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=532manojc&theme=redical"/>
+
+  <h4>
+    <img src="https://media0.giphy.com/media/Jmn641UpKSp5SukKxw/giphy.gif?cid=ecf05e47gmjg12cfco9ilso6tppzw2lsfcd8zw6ygf6brfw7&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="15" alt = "image">
+    <em>Reload the page if the stats didn't load!</em>
+  </h4>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?color=F7EFE9&section=footer&height=150&type=waving&text=%20{🙏}%20&fontColor=F7EFE9&fontSize=20" alt = "image" />
+</p>
